@@ -2,7 +2,7 @@
 
 ### Demo codes for
 
-### "Comparison of visual quantities in untrained deep neural networks" </br>
+### "Comparison of visual quantities in untrained neural networks" </br>
 
 Hyeonsu Lee, Woochul Choi, Dongil Lee, and Se-Bum Paik*
 
