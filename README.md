@@ -21,5 +21,4 @@ Hyeonsu Lee, Woochul Choi, Dongil Lee, and Se-Bum Paik*
 - Expected Installation time is about 30 minutes, but may vary by system conditions.
 
 ### 3. Instructions for demo
-- Run "main.m" and/or you can select result numbers (from 1 to 4) that you want to perform a demo simulation.
-- Main Figure 1-4.
+- Run "main.m" and/or you can select result numbers that you want to perform a demo simulation.
