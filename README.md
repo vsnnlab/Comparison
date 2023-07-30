@@ -16,7 +16,7 @@ Hyeonsu Lee, Woochul Choi, Dongil Lee, and Se-Bum Paik*
 - Uploaded codes were tested using MATLAB 2021a.
 
 ### 2. Installation
-- Download all files and folders. (Stimulus= https://doi.org/10.5281/zenodo.8137549)
+- Download all files and folders. (Stimulus= https://doi.org/10.5281/zenodo.8137549 or https://doi.org/10.5281/zenodo.8196422)
 - Expected Installation time is about 30 minutes but may vary by system conditions.
 
 ### 3. Instructions for demo
